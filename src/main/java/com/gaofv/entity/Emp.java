@@ -20,4 +20,6 @@ public class Emp {
     private String name;
     private Double salary;
     private Integer age;
+	
+	private List<Integer> numbers;
 }
